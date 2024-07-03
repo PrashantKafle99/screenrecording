@@ -8,7 +8,7 @@ import cv2 as cv
 import pyautogui as p
 import numpy as np
 
-#screensizw
+#screensize
 rs=p.size()
 
 #filename in which you are storing video
